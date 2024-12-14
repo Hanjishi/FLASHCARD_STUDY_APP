@@ -1,6 +1,0 @@
-{
-    "C_Cpp.errorSquiggles": "enabled",
-    "python.analysis.extraPaths": [
-        "./Expense_Tracker"
-    ]
-}
